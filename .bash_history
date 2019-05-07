@@ -767,3 +767,87 @@ git add
 git add .
 git commit -m -p 
 git push
+ls
+cd
+git add.
+git add
+git add .
+git add . cis206-objects-slament00
+ls
+git push
+vim Main.java
+cd
+mkdir cis206-objects-slament00
+ls
+cd cis206-objects-slament00
+vim Main.java
+javac main
+vim Main.java
+javac main
+vim Main.java
+javac main
+vim Main.java
+javac main.java
+javac Main.java
+vim Main.java
+javac Main.java
+java Main
+Main.java
+java Main
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+java Main
+vim Main.java
+javac Main.java
+java Main
+vim Main.java
+javac Main.java
+java Main
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+java Main
+vim Main.java
+javac Main.java
+vim Main.java
+javac Main.java
+git add .
+git commit -a -m
+git push
+echo "# cis206-objects-slament00" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/CISVVC/cis206-objects-slament00.git
+git push -u origin master
+git add .
+git commit -a -m
+git push
+git add .
+git commit -a -m update
+git push
